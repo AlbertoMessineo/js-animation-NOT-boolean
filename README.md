@@ -10,5 +10,5 @@ The slider works like this: by using the cursor, while pointing in every point o
 ![Phase-2-screen](img/progetto-2.PNG "Phase 2")<br />
 
 ![Phase-3-screen](img/progetto-3.PNG "Phase 3")<br />
-Also, the images itself move in a relative motion while dragged, causing a parallax effect.
+Also, the images themselves move in a relative motion while dragged, causing a parallax effect.
 
